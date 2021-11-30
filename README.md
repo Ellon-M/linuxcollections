@@ -1,6 +1,6 @@
 ## Introduction
 
-# Awesome notes by @JavaZakariae 👏
+# Awesome notes by [@JavaZakariae](https://github.com/JavaZakariae) 👏
 
 In the first part of this repository, you can find good examples of almost everything related to linux commands, in the second part you will find everything related to shell programming. 
 
